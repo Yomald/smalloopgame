@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=image\ type
+comment0.target=Tile(java.awt.image.BufferedImage,\ int)
+comment1.params=
+comment1.target=java.awt.image.BufferedImage\ getImage()
+comment2.params=
+comment2.target=int\ getType()
+numComments=3

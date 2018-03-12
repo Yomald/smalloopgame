@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Animation()
+comment1.params=frames
+comment1.target=void\ setFrames(java.awt.image.BufferedImage[])
+comment2.params=d
+comment2.target=void\ setDelay(long)
+comment3.params=i
+comment3.target=void\ setFrame(int)
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=int\ getFrame()
+comment6.params=
+comment6.target=java.awt.image.BufferedImage\ getImage()
+comment7.params=
+comment7.target=boolean\ hasPlayedOnce()
+numComments=8

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Explosion(int,\ int)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=
+comment2.target=boolean\ shouldRemove()
+comment3.params=x\ y
+comment3.target=void\ setMapPosition(int,\ int)
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics2D)
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=gsm
+comment0.target=LoadState(GameStateManager)
+comment1.params=
+comment1.target=LoadState()
+comment2.params=level
+comment2.target=void\ switchState(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ load()
+comment4.params=level
+comment4.target=void\ save(java.lang.String)
+comment5.params=
+comment5.target=void\ init()
+comment6.params=
+comment6.target=void\ update()
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics2D)
+comment8.params=k
+comment8.target=void\ keyPressed(int)
+comment9.params=k
+comment9.target=void\ keyReleased(int)
+numComments=10

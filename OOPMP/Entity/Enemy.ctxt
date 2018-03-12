@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=tm
+comment0.target=Enemy(TileMap.TileMap)
+comment1.params=
+comment1.target=boolean\ isDead()
+comment2.params=
+comment2.target=int\ getDamage()
+comment3.params=damage
+comment3.target=void\ hit(int)
+comment4.params=
+comment4.target=void\ update()
+numComments=5

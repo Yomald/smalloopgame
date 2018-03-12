@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tm
+comment0.target=SurtMonster(TileMap.TileMap)
+comment1.params=
+comment1.target=void\ getNextPosition()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics2D)
+numComments=4

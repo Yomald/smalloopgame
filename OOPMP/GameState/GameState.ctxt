@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=
+comment1.target=void\ update()
+comment2.params=g
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=k
+comment3.target=void\ keyPressed(int)
+comment4.params=k
+comment4.target=void\ keyReleased(int)
+numComments=5

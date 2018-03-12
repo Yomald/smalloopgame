@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=gsm
+comment0.target=Level2State(GameStateManager)
+comment1.params=
+comment1.target=void\ init()
+comment2.params=
+comment2.target=void\ populateEnemies()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=g
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment5.params=k
+comment5.target=void\ keyPressed(int)
+comment6.params=k
+comment6.target=void\ keyReleased(int)
+numComments=7
